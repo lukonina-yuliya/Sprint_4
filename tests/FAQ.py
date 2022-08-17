@@ -1,6 +1,7 @@
 from selenium import webdriver
 from page_objects.main_page import MainPage
 import time
+import pytest
 
 
 class TestFAQ:
